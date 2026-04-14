@@ -31,6 +31,13 @@ FROM workspace.default.viewership
 GROUP BY Channel2
 ORDER BY Watch_count DESC;
 
+--Check blank spaces
+SELECT COUNT (Province)
+FROM workspace.default.userprofile AS A
+FULL OUTER JOIN workspace.default.viewership AS B
+ON A.UserID = B.UserID0
+WHERE Province IS NULL OR TRIM(Province) = '';
+
 --Check Null data
 SELECT Province
 FROM workspace.default.userprofile AS A
