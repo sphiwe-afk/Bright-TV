@@ -21,6 +21,14 @@ Identify key drivers of consumption
 Provide content and growth recommendations
 Present insights to support CVM strategy
 
-Tools used Miro Canva Databricks Excel
+# Results Summary
+<img width="1269" height="245" alt="image" src="https://github.com/user-attachments/assets/7fdcdfb3-9439-4542-9975-4e80d00b87ab" />
 
-Process: Project planning Data processing Project presentation
+# Tools:
+Miro 
+Canva 
+Databricks 
+Excel
+
+# Process: 
+Project planning Data processing Project presentation
