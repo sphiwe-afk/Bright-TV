@@ -1,27 +1,25 @@
-# Bright-TV
+### Bright-TV
 BrightTV (Viewership Analytics)
 
-Bright TV is a forward-thinking media platform dedicated to illuminating the stories, technologies, and trends shaping our future. Bridging the gap between entertainment and information, Bright TV delivers curated content—ranging from tech innovations and sustainability to human-interest stories—designed to inspire, educate, and engage a global audience. Positioned at the intersection of high-definition broadcasting, we aim to provide a "brighter" perspective on world events, ensuring content is not only informative but accessible and impactful.
+# Problem Statement
 
-Objectives The primary objectives of Bright TV are to:
+BrightTV aims to grow its subscription base this financial year. The CVM team needs insights from user profile and viewership data to understand consumption behavior and identify growth opportunities.
 
-Inform and Educate:
-Provide accurate, balanced, and insightful reporting on current events, technological advancements, and lifestyle trends that empower viewers to make informed decisions.
+# Objective
 
-Innovate Content Delivery:
-Utilize cutting-edge broadcasting technology, including high-definition HDR streaming and interactive, Smart TV-integrated platforms, to provide a seamless viewing experience.
+To analyze user and viewing session data to uncover trends, drivers of consumption, and actionable recommendations that support subscriber growth and engagement.
 
-Inspire Positive Change: 
-Focus on stories of ingenuity, sustainability, and human potential, fostering a brighter outlook and encouraging actionable change within communities.
+# Aim
 
-Enhance Viewer Engagement: 
-Develop interactive, high-quality content that transcends traditional broadcasting, creating a multitasking, and engaging experience for the modern viewer.
-
-Ensure Universal Accessibility: 
-Deliver engaging content that reaches a diverse audience.
-
-Finally, ensure that the customers are getting value for money utilising our content.
-
+Understand user and usage trends
+Identify factors influencing content consumption
+Recommend content to increase usage on low‑consumption days
+Propose initiatives to grow and retain the user base
+Prepare and clean data (UTC to SA time)
+Analyze user behavior and viewership trends
+Identify key drivers of consumption
+Provide content and growth recommendations
+Present insights to support CVM strategy
 
 Tools used Miro Canva Databricks Excel
 
